@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Forge logo">
+  <!-- Forge geometric mark: twin forward strokes and a spark node — forging + connected intelligence -->
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#111114"/>
+  <path d="M18 46V20h12" stroke="#FFFFFF" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M18 32h9" stroke="#FFFFFF" stroke-width="5.2" stroke-linecap="round" fill="none"/>
+  <circle cx="47" cy="18" r="4.4" fill="#2563EB"/>
+</svg>
